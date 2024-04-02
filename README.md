@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KamCoding98, a grad student in economics at the University of Freiburg
+- 👀 I’m interested in development economics, particularly conflict, migration, climate, and poverty.
+- 🌱 I’m currently learning QGIS and Stata
+- 💞️ I’m looking to collaborate on the nexus between climate and conflict
